@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171374754843",
+    "project_id": "islamic-spotify",
+    "storage_bucket": "islamic-spotify.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171374754843:android:aeeb78844f4a371dcc4cbe",
+        "android_client_info": {
+          "package_name": "com.example.spotify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0aPc8FN-8dVJ-2lKUWykhQjdBc-CnS0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
